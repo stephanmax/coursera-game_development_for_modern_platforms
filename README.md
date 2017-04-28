@@ -1,2 +1,2 @@
-# coursera-game_development_for_modern_platforms
-My deliverables created within the scope of Coursera's "Game Development for Modern Platforms" MOOC
+# Coursera’s "Game Development for Modern Platforms"
+My deliverables created within the scope of Coursera's MOOC of the same name
